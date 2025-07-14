@@ -42,4 +42,4 @@
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/aldofl/)
-- [Email](aldorvm@gmail.com)
+- [Email](mailto:aldorvm@gmail.com)
