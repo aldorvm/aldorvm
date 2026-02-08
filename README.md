@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Aldo
+## 👋 Hi, I'm Aldo!
 
 Junior Full-Stack Software Developer based in Barcelona.  
 I build web and mobile applications with a strong focus on clean architecture, APIs, data modeling and automation.  
@@ -6,7 +6,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
@@ -17,14 +17,14 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🧠 Backend
+### 🧠 Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ---
 
-## 🔢 Databases & Data Modeling
+### 🔢 Databases & Data Modeling
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
@@ -35,7 +35,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🔌 APIs & Integrations
+### 🔌 APIs & Integrations
 
 ![REST](https://img.shields.io/badge/REST_API-02569B)
 ![FirebaseAuth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black)
@@ -43,7 +43,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## ⚙️ Cloud, Environments & Deployment
+### ⚙️ Cloud, Environments & Deployment
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Aiven](https://img.shields.io/badge/Aiven-FD4B2D?logo=aiven&logoColor=white)
@@ -52,7 +52,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🧩 Low-Code & Automation
+### 🧩 Low-Code & Automation
 
 ![PowerApps](https://img.shields.io/badge/Power_Apps-742774?logo=microsoft-powerapps&logoColor=white)
 ![PowerAutomate](https://img.shields.io/badge/Power_Automate-0078D4?logo=microsoft-powerautomate&logoColor=white)
@@ -61,7 +61,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🧰 Tools & Workflow
+### 🧰 Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -74,7 +74,7 @@ My background in HR and administration helps me translate real business needs in
 
 ---
 
-## 🌍 Languages
+### 🌍 Languages
 
 ES · ITA · CAT — Native  
 EN — Professional (B2–C1)  
@@ -82,7 +82,7 @@ FR — Basic (learning)
 
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 📧 aldorvm@gmail.com  
 🔗 https://www.linkedin.com/in/aldofl
